@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Redux toolkit experiments 
+
+22/05/2024 - Added range inputs which interact with redux reducer to change RGB value of the shadow of main logo in App.js  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
